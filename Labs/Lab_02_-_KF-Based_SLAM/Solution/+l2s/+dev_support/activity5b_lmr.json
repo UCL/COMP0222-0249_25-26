@@ -1,0 +1,33 @@
+{
+    "landmarkRegions":
+     [
+		    {
+			"xMin": -15,
+			"xMax": 20,
+			"yMin": -30,
+			"yMax": -20,
+			"numLandmarks": 20
+		    },
+         		    {
+			"xMin": 50,
+			"xMax": 70,
+			"yMin": -30,
+			"yMax": 20,
+			"numLandmarks": 20
+		            },
+         		    {
+			"xMin": 30,
+			"xMax": 50,
+			"yMin": 0,
+			"yMax": 50,
+			"numLandmarks": 20
+		            },
+         {
+			"xMin": -10,
+			"xMax": 0,
+			"yMin": 10,
+			"yMax": 30,
+			"numLandmarks": 20
+		            }
+     ]
+}

@@ -1,0 +1,5 @@
+{
+    "sigmaQ": [100],
+    "B": 2.5,
+    "controller": "config/dotbot_controller.json"
+}

@@ -1,0 +1,9 @@
+{
+    "odomUpdatePeriod": 0.1,
+    "odomSigma": 0.1,
+    "maxDiffDeltaRate": 20,
+    "maxDelta": 20,
+    "maxSpeed": 10,
+    "minSpeed": 1,
+    "maxAcceleration": 0.5
+}

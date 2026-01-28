@@ -1,0 +1,5 @@
+{
+    "sigmaQ": [1],
+    "B": 2.5,
+    "controller": "config/dotbot_controller-noisy.json"
+}

@@ -1,0 +1,25 @@
+{
+    "platform": "config/dotbot_platform.json",
+    "platformTrajectory": "config/activity5/activity5b_waypoints.json",
+  "maximumStepNumber": 4000,
+  "perturbWithNoise": true,
+  "x0": [
+    0, 0, 0
+  ],
+  "P0": [
+    [
+      0, 0, 0
+    ],
+    [
+      0, 0, 0
+    ],
+    [
+      0, 0, 0
+    ]
+  ],
+    "minDT": 0.001,
+    "maxDT": null,
+    "map": "config/activity5/activity5b_slam_landmarks.json",
+    "debugMode": false,
+    "heartbeatPeriod": 0.1
+}
